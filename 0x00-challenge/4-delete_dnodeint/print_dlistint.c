@@ -2,11 +2,11 @@
 #include "lists.h"
 
 /**
- * print_dlistint - Prints a doubly linkedlist of integers
+ * print_dlistint - Prints a doubly linkedlist of ints
  *
- * @h: A pointer to the first element of a list
+ * @h: A ptr to the first element of a list
  *
- * Return: The number of element printed
+ * Return: The num of element printed
  */
 size_t print_dlistint(const dlistint_t *h)
 {

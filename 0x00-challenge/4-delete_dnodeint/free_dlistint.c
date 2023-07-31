@@ -3,9 +3,9 @@
 #include "lists.h"
 
 /**
- * free_dlistint - Free a list
+ * free_dlistint - Free a linkedlist
  *
- * @head: A pointer to the first element of the list
+ * @head: A ptr to the first element of the list
  */
 void free_dlistint(dlistint_t *head)
 {
